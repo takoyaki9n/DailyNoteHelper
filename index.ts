@@ -1,6 +1,5 @@
 import Body = GoogleAppsScript.Document.Body;
 import Paragraph = GoogleAppsScript.Document.Paragraph;
-import ElementType = GoogleAppsScript.Document.ElementType;
 import ParagraphHeading = GoogleAppsScript.Document.ParagraphHeading;
 
 const onOpen = () => {
